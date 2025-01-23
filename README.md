@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Michael Fahy
+[![Gmail Badge](https://img.shields.io/badge/Gmail-mfahy2500@gmail.com-brightgreen)](mailto:mfahy2500@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-michael--m--fahy-blue)](https://www.linkedin.com/in/michael-m-fahy)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-michael.fahy-blue)](https://public.tableau.com/app/profile/michael.fahy/vizzes)
+[![GreatLearning Badge](https://img.shields.io/badge/GreatLearning-michael--fahy-blue)](https://www.mygreatlearning.com/eportfolio/michael-fahy)
+
+
+- ##👋 Hi, I’m Michael Fahy
 - 👀 I’m interested in sports, particularly baseball, football and soccer. I love to play video games, watch movies and cook as well!
 - 🌱 I’m currently learning key data analytics tools such as Tableau, Power BI and SQL with my TripleTen course!
 - 💞️ I’m looking to collaborate on fun and exciting opportunities where I can learn new ways to analyze data and familiarize myself with as many data
